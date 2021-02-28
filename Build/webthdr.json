@@ -1,7 +1,7 @@
 {
 "companyName": "miisfactory",
 "productName": "デイリーレイム",
-"productVersion": "20",
+"productVersion": "10",
 "dataUrl": "webthdr.data.unityweb",
 "wasmCodeUrl": "webthdr.wasm.code.unityweb",
 "wasmFrameworkUrl": "webthdr.wasm.framework.unityweb",
